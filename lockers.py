@@ -39,9 +39,9 @@ print bruteAnswer
 
 
 
-# Method 2: even-ness of factors
+# Method 2: odd number of factors
 
-print('\nMethod 2: even-ness of factors\n')
+print('\nMethod 2: odd number of factors\n')
 
 evenFactorAnswer = []
 for i in range(1, numLockers +1):
